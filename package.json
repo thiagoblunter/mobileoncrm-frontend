@@ -2,11 +2,11 @@
   "name": "mobileoncrm-frontend",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "start": "vite preview"
-  },
+  "dev": "npx vite",
+  "build": "npx vite build",
+  "preview": "npx vite preview",
+  "start": "npx vite preview"
+},
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
